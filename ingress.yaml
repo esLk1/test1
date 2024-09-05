@@ -5,7 +5,7 @@ metadata:
   namespace: zdenoargo
 spec:
   rules:
-  - host: ngtesticek.wuestenrot.sk
+  - host: ngtesticek.wuestekokonrot.sk
     http:
      paths:
       - path: /
